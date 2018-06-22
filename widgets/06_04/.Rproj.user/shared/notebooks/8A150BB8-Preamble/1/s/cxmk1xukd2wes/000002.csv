@@ -1,0 +1,9 @@
+"0","game_of_thrones <- read_csv(""https://www.macalester.edu/~abeverid/data/stormofswords.csv"")
+"
+"2","Parsed with column specification:
+cols(
+  Source = col_character(),
+  Target = col_character(),
+  Weight = col_integer()
+)
+"
